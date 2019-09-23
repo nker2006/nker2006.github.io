@@ -1,5 +1,5 @@
 ## 肖芸
-![/C:/Users/Yun(Jo)/Desktop/portrait-01.jpg]
+[https://1drv.ms/u/s!AuFBM-2EhN3Sv2TCPXVEHWpKVPCM]
 
 ### 个人简介
 
