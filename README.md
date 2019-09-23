@@ -27,7 +27,7 @@
 - 体外功能性仿生微组织
 
 ## 代表性论文专著
-1. Huang D#, Huang Y#, **Xiao Y** *, Yang X, Lin H, Feng G, Zhu X, Zhang X*. Viscoelasticity in natural tissues and engineered scaffolds for tissue reconstruction. Acta Biomater. 2019 Aug. 
+1. Huang D#, Huang Y#, **Xiao Y***  , Yang X, Lin H, Feng G, Zhu X, Zhang X*. Viscoelasticity in natural tissues and engineered scaffolds for tissue reconstruction. Acta Biomater. 2019 Aug. 
 2. **Xiao Y**, Reis L, Feric N, Knee EJ, Gu J, Cao S, Laschinger C, Londono C, McGuigan A, Radisic M*. Diabetic wound regeneration using peptide-modified hydrogels targeting re-epithelialization. Proceedings of the National Academy of Sciences. 2016 Oct 4;113(40):E5792-E5801 
 3. **Xiao Y**, Ahadian S, Radisic M*. Biochemical and biophysical cues in matrix design for chronic and diabetic wound treatment. Tissue Engineering Part B. 2017;23(1):9-26 
 4. **Xiao Y**, Reis L, Zhao Y, Radisic M*. Modifications of biomaterials with immobilized growth factors or peptides for tissue engineering applications. Methods 2015;84:44-52. 
