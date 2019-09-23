@@ -1,5 +1,5 @@
 ## 肖芸
-![Image](https://1drv.ms/u/s!AuFBM-2EhN3Sv2TCPXVEHWpKVPCM)
+![Image](https://1drv.ms/u/s!AuFBM-2EhN3Sv2RiC18chCf08JeD)
 
 ### 个人简介
 
