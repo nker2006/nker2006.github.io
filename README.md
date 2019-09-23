@@ -1,16 +1,30 @@
-## 肖芸
+# 肖芸
 ![Image](https://cf0y8q.bl.files.1drv.com/y4mT2Up3tO3_v2atFrnBA1bHG1gkn3Wujk1mMUajiZg1ywmUD0OBAYTBDHuedB-j2mx3BNBqydSYdVNo3FbBo1UMtrcALiPxhU9HkH4yZMxx7hrZ3fDAQAcEopCH_tnBgku9cTJIAq4IjjOgG-FodtLR063Khg1ryK-SEh3hdbgYeFih6mXkNAG3yqAE7j5JJfXLVB9TbvWQ1MZCeEHdnlyuQ?width=246&height=256&cropmode=none)
 
-### 个人简介
+## 个人简介
 
 四川大学国家生物医学材料工程技术研究中心副研究员，四川省海外高层次留学人才，入选四川省科协青年人才托举工程，四川省青年科技创新研究团队核心成员。主要从事以临床应用为导向的生物材料功能化设计及材料微环境调控的机理研究，专注于材料及微环境物理性质对细胞的动态调控作用。回国后主持5项国家级、省部级科研项目，担任ACS Biomaterials Science & Engineering国际期刊的青年编委。相关成果发表于PNAS、Nature Methods和ACS Nano等知名期刊，被他引1000余次。
 
-### 研究方向
+### 教育经历
+2010/09-2016/01     加拿大多伦多大学化学工程与应用化学学院博士，生物医学工程专业
+2008/09-2009/06     美国华盛顿大学生物工程学院交换学生，生物工程专业
+2006/09-2010/06     四川大学材料科学与工程学院学士，生物医学工程专业
+
+### 科研项目
+1. “十三五”国家重点研发计划2019YFA0110600，基于干细胞和生物材料的组织和器官再生，子课题负责人
+2.	国家自然基金委青年基金51703140，微环境基质对骨髓间充质干细胞凝聚行为及成软骨分化的影响，负责人
+3.	四川省科协青年人才托举工程2018RCTJ，可注射胶原水凝胶在软骨缺损修复中的应用，负责人
+4.	中国博士后科学基金第11批特别资助2018T110979，胶原水凝胶物理性质对MSCs细胞行为及再生功能的影响，负责人
+5.	中国博士后科学基金第62批面上资助2017M623034，定向形貌胶原支架的可控构筑及其对软骨细胞表型的影响，负责人
+6.	四川大学专职博士后研发基金2017SCU12008，间充质干细胞软骨向分化对胶原基质的重建，负责人
+7.	四川省青年科技创新研究团队2019JDTD0008，组织再生生物材料及植入器械研发，主研
+
+## 研究方向
 - 生物材料功能化设计
 - 组织再生三维微环境
 - 体外功能性仿生微组织
 
-### 代表性论文专著
+## 代表性论文专著
 1. Huang D#, Huang Y#, **Xiao Y***, Yang X, Lin H, Feng G, Zhu X, Zhang X*. Viscoelasticity in natural tissues and engineered scaffolds for tissue reconstruction. Acta Biomater. 2019 Aug. 
 2. **Xiao Y**, Reis L, Feric N, Knee EJ, Gu J, Cao S, Laschinger C, Londono C, McGuigan A, Radisic M*. Diabetic wound regeneration using peptide-modified hydrogels targeting re-epithelialization. Proceedings of the National Academy of Sciences. 2016 Oct 4;113(40):E5792-E5801 
 3. **Xiao Y**, Ahadian S, Radisic M*. Biochemical and biophysical cues in matrix design for chronic and diabetic wound treatment. Tissue Engineering Part B. 2017;23(1):9-26 
@@ -23,25 +37,7 @@
 10. Zhang B, **Xiao Y**, Hsieh A, Thavandiran N, Radisic M*. Micro- and nanotechnology in cardiovascular tissue engineering. Nanotechnology 2011;22:494003.
 
 
-### 联系方式
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+## 联系方式
+邮箱地址：yun.xiao at scu.edu.cn
+个人主页：www.xiaoyun.site
+办公地址：生物材料楼 706-1 室
