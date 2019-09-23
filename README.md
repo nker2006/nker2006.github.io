@@ -1,5 +1,5 @@
 ## 肖芸
-<img src="file:///C:/Users/Yun(Jo)/Desktop/portrait-01.jpg"/>
+![/C:/Users/Yun(Jo)/Desktop/portrait-01.jpg]
 
 ### 个人简介
 
